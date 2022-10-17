@@ -1,8 +1,16 @@
-# Weevil-Optimizer-Algorithm-WOA-
 % Weevil Optimizer Algorithm (WOA)
-% Developed by Seyed Muhammad Hossein Mousavi - 2022
-% Weevils, also referred to as nunus, are beetles belonging to the superfamily 
-% Curculionoidea, known for their elongated snouts. Many weevils are considered 
-% pests because of their ability to damage and kill crops. I just made this code 
-% out of scratch and there is no related paper about it. 
-![Weevil Optimizer Algorithm (WOA)](https://user-images.githubusercontent.com/11339420/168399399-7a831464-7bf4-4725-b205-b9d29e0709fb.jpg)
+% Paper:
+% http://www.growingscience.com/jfs/Vol2/jfs_2022_17.pdf
+%-----------------------------------------------------------
+% Developed by Seyed Muhammad Hossein Mousavi - (Oct 2022)
+% Contact : mosavi.a.i.buali@gmail.com
+%-----------------------------------------------------------
+% Weevils are a type insect with elongated snouts coming from superfamily of 
+% Curculionoidea with approximately 97,000 species. Most of them consider pest and
+% cause environmental damages but some kinds like wheat weevil, maize weevil, and 
+% boll weevils are famous to cause huge damage on crops, especially cereal grains. 
+% This research is proposed a novel swarm-based metaheuristics algorithms called 
+% Weevil Damage Optimization Algorithm (WDOA) which mimics weevils’ fly power, 
+% snout power, and damage power on crops or agricultural products. The proposed 
+% algorithm is tested with 12 benchmark unimodal and multimodal artificial landscapes
+% or optimization test functions. 
