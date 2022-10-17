@@ -14,3 +14,4 @@
 % snout power, and damage power on crops or agricultural products. The proposed 
 % algorithm is tested with 12 benchmark unimodal and multimodal artificial landscapes
 % or optimization test functions. 
+![Weevil Damage Optimization Algorithm  (WDOA)](https://user-images.githubusercontent.com/11339420/196252232-5f6dd1d0-4964-4134-b9ea-1e556c660111.jpg)
