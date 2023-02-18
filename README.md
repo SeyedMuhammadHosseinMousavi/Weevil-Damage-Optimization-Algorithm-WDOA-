@@ -1,4 +1,4 @@
-% Weevil Optimizer Algorithm (WOA)
+% Weevil Damage Optimization Algorithm (WDOA)
 % Paper:
 % http://www.growingscience.com/jfs/Vol2/jfs_2022_17.pdf
 %-----------------------------------------------------------
