@@ -1,10 +1,10 @@
-% Weevil Damage Optimization Algorithm (WDOA)
-% Paper:
-% http://www.growingscience.com/jfs/Vol2/jfs_2022_17.pdf
-%-----------------------------------------------------------
-% Developed by Seyed Muhammad Hossein Mousavi - (Oct 2022)
-% Contact : mosavi.a.i.buali@gmail.com
-%-----------------------------------------------------------
+## Weevil Damage Optimization Algorithm (WDOA)
+### Link to the Paper:
+- http://www.growingscience.com/jfs/Vol2/jfs_2022_17.pdf
+- -----------------------------------------------------------
+- Developed by Seyed Muhammad Hossein Mousavi - (Oct 2022)
+- Contact : mosavi.a.i.buali@gmail.com
+- ----------------------------------------------------------
 % Weevils are a type insect with elongated snouts coming from superfamily of 
 % Curculionoidea with approximately 97,000 species. Most of them consider pest and
 % cause environmental damages but some kinds like wheat weevil, maize weevil, and 
