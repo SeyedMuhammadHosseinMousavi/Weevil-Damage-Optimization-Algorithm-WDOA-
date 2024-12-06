@@ -44,3 +44,6 @@ The algorithm has been applied to benchmark functions (e.g., Ackley) and real-wo
 
 ![image](https://github.com/user-attachments/assets/af4a7758-e132-4a4e-83ac-077ebaabf37e)
 
+- DOI :  10.5267/j.jfs.2022.10.003
+- ### Cite:
+- Mousavi, S., and S. Mirinezhad. "Weevil damage optimization algorithm and its applications." Journal of Future Sustainability 2.4 (2022): 133-144.
